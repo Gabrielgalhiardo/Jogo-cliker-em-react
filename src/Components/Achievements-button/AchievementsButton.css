@@ -1,0 +1,17 @@
+#achievements-button {
+    display: none;
+    
+}
+#fundo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 27px;
+    height: 27px;
+    background-color: rgb(46, 40, 40);
+    border: solid 2px rgb(216, 184, 0);
+    border-radius: 10px;
+}
+
+
+
